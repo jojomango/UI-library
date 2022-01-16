@@ -1,5 +1,5 @@
 {
-  "name": "jojo-ui-library",
+  "name": "@jojomango/ui-library",
   "version": "1.0.0",
   "description": "host my own UI library",
   "main": "index.js",
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jojomango/UI-library.git"
+  },
+  "publishConfig": {
+    "@jojomango:registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "ui-liabrary"
