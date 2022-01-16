@@ -1,0 +1,22 @@
+{
+  "name": "jojo-ui-library",
+  "version": "1.0.0",
+  "description": "host my own UI library",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojomango/UI-library.git"
+  },
+  "keywords": [
+    "ui-liabrary"
+  ],
+  "author": "mingchiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jojomango/UI-library/issues"
+  },
+  "homepage": "https://github.com/jojomango/UI-library#readme"
+}
