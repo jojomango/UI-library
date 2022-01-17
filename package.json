@@ -1,6 +1,6 @@
 {
   "name": "@jojomango/ui-library",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "host my own UI library",
   "main": "index.js",
   "scripts": {
